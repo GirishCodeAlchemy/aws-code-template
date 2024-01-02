@@ -1,0 +1,11 @@
+{
+    "name": "lambda-app",
+    "version": "1.0.0",
+    "main": "simple_handler.js",
+    "scripts": {
+      "start": "node simple_handler.js"
+    },
+    "dependencies": {
+      // List your dependencies here
+    }
+  }
